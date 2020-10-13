@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+*{
+	font-family: 'Staatliches', cursive;
+}
+body{
+	margin: 0;
+	
+}
+
+.head{
+	
+	font-size: 55px;
+	color: #133b5c;
+	text-shadow: #ffffff 2px 2px 2px;
+}
+
+.main{
+	background: #133b5c;
+}
+
+.container{
+	background: #1e5f74;
+}
+
+.input{
+	text-transform: capitalize;
+	color: #ffffff !important;
+	background: #133b5c !important;
+	
+	font-weight: 300 !important;
+}
+
+.user{
+	padding: 20px;
+	border-radius: 5px;
+	
+}
+
+.card-title{
+		
+	color: #133b5c;
+}
